@@ -8,7 +8,8 @@
 ![image](https://github.com/ankitSarwar/BLOG-Application/assets/111841677/0fe3eb64-cbee-4ddf-a5fd-39e570c33d0f)
 
 
-![image](https://github.com/ankitSarwar/BLOG-Application/assets/111841677/3d343dad-1ca4-4f7a-a072-03c88e41ad9f)
+![image](https://github.com/ankitSarwar/BLOG-Application/assets/111841677/961d58b3-c439-42fe-be27-b5c20f558cfb)
+
 
 
 ![image](https://github.com/ankitSarwar/BLOG-Application/assets/111841677/190cdb72-b2b0-47a6-8976-744f29b11086)
