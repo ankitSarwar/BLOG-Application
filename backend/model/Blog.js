@@ -3,9 +3,10 @@ import mongoose, { Mongoose } from "mongoose";
 const Schema = mongoose.Schema;
 
 const blogSchema = new Schema({
-    title :{
+    title: {
         type: String,
         required: true,
+        index: true,
     },
     description: {
         type: String,
